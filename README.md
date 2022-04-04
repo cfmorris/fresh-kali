@@ -1,5 +1,5 @@
 # fresh-kali
-Procedures for setting up a kali box after its inevitably destroyed.
+Procedures for setting up a kali box after its inevitably destroyed. Update this list next time with the information needed to automate as much as possible with .sh scripts.  Create a git repo for THM and cryptohacks stuff for redundancy.
 
 # You did it again?
 1. sudo apt update
@@ -27,9 +27,10 @@ CyberSec Stuff:
 3. cd /usr/share/wordlists
 4. sudo unzip seclists.zip
 5. sudo gzip -d rockyou*
-6. openvpn stuff 
-7. set up foxy proxy, Burp CA Certificates
-8. download standalone jython for burp
+6. openvpn stuff
+7. update burp
+8. set up foxy proxy, Burp CA Certificates
+9. download standalone jython for burp
 
 #Tips for not bricking kali:
 - installing R seems to do have weird and inexplicable consequences.  Figure out how to use a virtual environment.
