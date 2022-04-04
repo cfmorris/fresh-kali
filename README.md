@@ -18,7 +18,7 @@ Dev Environment:
 2. Discord (wgettable?)
 3. sudo apt install ruby sqlite3 node yarn
 4. sudo gem install rails
-5. postgresql should be good, but check
+5. postgresql should be good, but but get the local dev DB running (document this).
 6. sudo apt install git heroku htop
 
 CyberSec Stuff:
@@ -33,5 +33,5 @@ CyberSec Stuff:
 9. download standalone jython for burp
 
 #Tips for not bricking kali:
-- installing R seems to do have weird and inexplicable consequences.  Figure out how to use a virtual environment.
+- installing R seems to have weird and inexplicable consequences.  Figure out how to use a virtual environment.
 - sudo apt uninstall python3 is a silly command to enter.  Fix broken dependency paths another way.
